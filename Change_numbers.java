@@ -7,7 +7,7 @@ public class Change_numbers {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter a number");
         int a = in.nextInt();
-        System.out.println("Enter next number");
+        System.out.println("Enter b number");
         int b = in.nextInt();
         System.out.println("You input two numbers: " + a + " and " + b);
         int tmp = a;
