@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class Change_numbers {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("Enter a number");
+        System.out.println("Enter number a");
         int a = in.nextInt();
-        System.out.println("Enter b number");
+        System.out.println("Enter number b");
         int b = in.nextInt();
         System.out.println("You input two numbers: " + a + " and " + b);
         int tmp = a;
